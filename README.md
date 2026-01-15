@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF0000,100:8B0000&height=220&section=header&text=ASITHA%20MD%20V6&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Next-Gen%20WhatsApp%20Bot&descAlignY=65&descSize=25" width="100%" style="border-radius: 15px;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF0000,100:8B0000&height=220&section=header&text=PLAYBOY%20MD%20V999+&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Next-Gen%20WhatsApp%20Bot&descAlignY=65&descSize=25" width="100%" style="border-radius: 15px;"/>
 
 <br><br>
 
@@ -93,6 +93,6 @@
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF0000,100:8B0000&height=120&section=footer&text=Thank%20You!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70&desc=©%202025%20ASITHA-MD%20V6&descAlignY=90&descSize=15" width="100%" style="border-radius: 15px;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF0000,100:8B0000&height=120&section=footer&text=Thank%20You!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70&desc=©%202025%20PLAYBOY-MD%20V999+&descAlignY=90&descSize=15" width="100%" style="border-radius: 15px;"/>
 
 </div>
