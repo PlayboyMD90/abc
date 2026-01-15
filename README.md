@@ -11,7 +11,7 @@
 <br><br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&pause=1000&color=FF0000,FFFFFF,FF4500&center=true&vCenter=true&width=900&height=70&lines=⚡+FAST+FAST+PERFORMANCE;🔥+RED+EDITION+V6;🛡️+MILITARY+GRADE+SECURITY;✨+THE+NEXT-GEN+WHATSAPP+BOT&gradient=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&pause=1000&color=FF0000,FFFFFF,FF4500&center=true&vCenter=true&width=900&height=70&lines=⚡+FAST+FAST+PERFORMANCE;🔥+RED+EDITION+V999;🛡️+MILITARY+GRADE+SECURITY;✨+THE+NEXT-GEN+WHATSAPP+BOT&gradient=true" alt="Typing SVG" />
 </a>
 
 <br>
@@ -68,14 +68,14 @@
     <td align="center" width="33%">
       <img src="https://img.icons8.com/color/64/artist-palette.png" width="50"><br>
       <b>Stylish UI</b><br>
-      <font size="2">Red & Dark Theme</font>
+      <font size="2">Green & Dark Theme</font>
     </td>
   </tr>
 </table>
 
 <br><br>
 
-<h2 align="center" style="color: #FF0000;">🔥 Deploy Now 🔥</h2>
+<h2 align="center" style="color: #FF0000;">🔥 Deploy කරපං 😃😃 🔥</h2>
 
 <div align="center">
   <a href="https://dashboard.heroku.com/new?template=https://github.com/nbbb15092/abc" target="_blank">
@@ -93,6 +93,6 @@
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF0000,100:8B0000&height=120&section=footer&text=Thank%20You!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70&desc=©%202025%20PLAYBOY-MD%20V999+&descAlignY=90&descSize=15" width="100%" style="border-radius: 15px;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF0000,100:8B0000&height=120&section=footer&text=Thank%20You!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70&desc=©%202026%20PLAYBOY-MD%20V999+&descAlignY=90&descSize=15" width="100%" style="border-radius: 15px;"/>
 
 </div>
